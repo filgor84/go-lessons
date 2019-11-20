@@ -1,0 +1,9 @@
+0.13s  385287 http://repubblica.it
+0.15s   10565 https://www.computerhope.com/jargon/s/stdout.htm
+0.16s  792069 http://ilfattoquotidiano.it
+0.28s  126778 http://facebook.com
+0.47s   89285 http://usatoday.com
+0.56s   29871 http://milanonogo.altervista.org
+0.57s    3105 http://condenast.com
+0.82s  565222 http://nba.com
+0.82s elapsed
